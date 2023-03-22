@@ -382,7 +382,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 #define MIRYOKU_ALTERNATIVES_FUN \
 &kp F1,            &kp F2,            &kp F3,            &kp F4,            &kp F5,            &kp F6,            &kp F7,            &kp F8,            &kp F9,            &kp F10,           \
 &kp F11,           &kp F12,           &kp F13,           &kp F14,           &kp F15,           &kp K_APP,         &kp RCTRL,         &kp RSHFT,         &kp RALT,          &kp RGUI,          \
-&kp F16,           &kp F17,           &kp F18,           &kp F19,           &kp F20,           &kp F21,           &kp F22,           &kp F23,           &kp F24            U_NA               \
+&kp F16,           &kp F17,           &kp F18,           &kp F19,           &kp F20,           &kp F21,           &kp F22,           &kp F23,           &kp F24,           U_NA,               \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp PSCRN,         &kp SLCK,          &kp PAUSE_BREAK,   U_NP,              U_NP
 
 
