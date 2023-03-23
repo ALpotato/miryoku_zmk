@@ -44,7 +44,7 @@ U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp 
 
 // Modified by ALpotato
 #define MIRYOKU_ALTERNATIVES_NUM \
-&kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp PLUS,          &kp N7,            &kp N8,            &kp N9,            &kp N0,            \
+&kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp N6,            &kp N7,            &kp N8,            &kp N9,            &kp N0,            \
 U_MT(LGUI, N1),    U_MT(LALT, N2),    U_MT(LSHFT, N3),   U_MT(LCTRL, N4),   &kp N5,            &kp EQUAL,         U_MT(RCTRL, N4),   U_MT(RSHFT, N5),   U_MT(RALT, N6),    U_MT(RGUI, N0),    \
 &kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp MINUS,         &kp N1,            &kp N2,            &kp N3,            &kp N0,            \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP
