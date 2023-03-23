@@ -23,10 +23,10 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 // Modified by ALpotato
 #define MIRYOKU_ALTERNATIVES_MEDIA_INVERTEDT \
-&u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_sel_3,       &u_bt_sel_4,       &u_out_tog,        U_NA,              &kp C_VOL_UP,      U_NA,              U_NA,         \
-&kp LGUI,          &kp LALT,          &kp LSHFT,         &kp LCTRL,         U_NA,              &out OUT_BLE,      &kp C_PREV,        &kp C_VOL_DN,      &kp C_NEXT,        U_NA,         \
-U_NA,              &kp RALT,          &u_to_U_FUN,       &u_to_U_MEDIA,     U_NA,              U_NA,              &kp C_PP,          &kp C_MUTE,        &kp C_STOP,        U_NA,         \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+&u_out_tog,        U_NA,              &kp C_VOL_UP,      U_NA,              U_NA,         &u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,       &u_bt_sel_3,       &u_bt_sel_4,       \
+&out OUT_BLE,      &kp C_PREV,        &kp C_VOL_DN,      &kp C_NEXT,        U_NA,         &U_NA,             U_NA,              U_NA,              U_NA,              U_NA,              \
+U_NA,              &kp C_PP,          &kp C_MUTE,        &kp C_STOP,        U_NA,         U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 // Modified by ALpotato
 #define MIRYOKU_ALTERNATIVES_FUN \
@@ -45,8 +45,8 @@ U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp 
 // Modified by ALpotato
 #define MIRYOKU_ALTERNATIVES_NUM \
 &kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp N6,            &kp N7,            &kp N8,            &kp N9,            &kp N0,            \
-U_MT(LGUI, N1),    U_MT(LALT, N2),    U_MT(LSHFT, N3),   U_MT(LCTRL, N4),   &kp N5,            U_NA,              U_MT(RCTRL, N7),   U_MT(RSHFT, N8),   U_MT(RALT, N9),    U_MT(RGUI, N0),    \
-&kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp N6,            &kp N7,            &kp N8,            &kp N9,            &kp N0,            \
+U_MT(LGUI, N1),    U_MT(LALT, N2),    U_MT(LSHFT, N3),   U_MT(LCTRL, N4),   &kp N5,            &kp N6,            U_MT(RCTRL, N4),   U_MT(RSHFT, N5),   U_MT(RALT, N6),    U_MT(RGUI, N0),    \
+&kp N1,            &kp N2,            &kp N3,            &kp N4,            &kp N5,            &kp N6,            &kp N1,            &kp N2,            &kp N3,            &kp N0,            \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 // Modified by ALpotato
