@@ -37,8 +37,8 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 // Modified by ALpotato
 #define MIRYOKU_ALTERNATIVES_SYM \
-&kp EXCL,          &kp AT,            &kp LBRC,          &kp RBRC,          &kp TILDE,         &kp PIPE,          &kp BSLH,          &kp DQT,           &kp MINUS,         &kp PLUS,          \
-&kp POUND,         &kp DLLR,          &kp LBKT,          &kp RBKT,          &kp GRAVE,         &kp EQUAL,         &kp RCTRL,         &kp RSHFT,         &kp RALT,          U_MT(RGUI, UNDER), \
+&kp EXCL,          &kp AT,            &kp LBRC,          &kp RBRC,          &kp TILDE,         &kp PIPE,          &kp BSLH,          &kp DQT,           &kp UNDER,         &kp PLUS,          \
+&kp POUND,         &kp DLLR,          &kp LBKT,          &kp RBKT,          &kp GRAVE,         &kp EQUAL,         &kp RCTRL,         &kp RSHFT,         &kp RALT,          U_MT(RGUI, MINUS), \
 &kp PRCNT,         &kp CARET,         &kp LPAR,          &kp RPAR,          &kp AMPS,          &kp ASTRK,         &kp COLON,         &kp LT,            &kp GT,            &kp QMARK,         \
 U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp SQT,           U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
